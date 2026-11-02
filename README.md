@@ -1,1 +1,1 @@
-# belajarjs
+# belajar.js
